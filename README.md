@@ -2,6 +2,10 @@
 
 This project consists of two mechanisms: a Launcher and a Dropper. The Launcher sends an RF signal to the Dropper to initiate the drop sequence while simultaneously activating a relay to release compressed air, launching the projectile.
 
+## Demo
+
+[![Projectile Launcher Demo](https://img.youtube.com/vi/XarE-mkv6SU/0.jpg)](https://youtu.be/XarE-mkv6SU)
+
 ## Components
 
 ### Launcher
